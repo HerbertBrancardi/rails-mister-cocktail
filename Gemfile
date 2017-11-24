@@ -16,9 +16,6 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 
-gem 'bootstrap-sass'
-gem 'simple_form'
-
 group :development, :test do
   gem 'web-console'
   gem 'spring'
