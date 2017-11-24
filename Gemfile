@@ -16,11 +16,15 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 
+gem 'cloudinary'
+gem 'carrierwave', '~> 1.2'
+
 group :development, :test do
   gem 'web-console'
   gem 'spring'
   gem 'listen', '~> 3.0.5'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
+
 
 
